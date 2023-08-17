@@ -16,11 +16,12 @@ It uses Firebase Storage to store uploaded PDFs and Cloud Firestore to store the
 
 Upload a PDF:
 
-![ezgif-3-be7d3e9b1b](https://github.com/dartmouth-cs52-23s/project-airead/assets/20538238/9ae5a55f-38e6-46d3-b6cc-06bbb2f5082c)
+![242737534-9ae5a55f-38e6-46d3-b6cc-06bbb2f5082c](https://github.com/jasonchen2023/AI-Read/assets/77142116/aa1145ba-e8a5-4107-bc14-7f8bfa0a901d)
+
 
 **Generate summaries**, **chat with GPT**, and **add notes**, all in one platform!
 
-![ezgif-2-110478e41b](https://github.com/dartmouth-cs52-23s/project-airead/assets/20538238/b48cd7b0-5bf8-4d4d-8511-e3c424fe83a3)
+![242736964-b48cd7b0-5bf8-4d4d-8511-e3c424fe83a3](https://github.com/jasonchen2023/AI-Read/assets/77142116/21216941-87ef-4139-b6d7-58758ee9403a)
 
 
-Please email jasonchen2023@gmail.com for code
+If you're interested in seeing the code, please email jasonchen2023@gmail.com.
