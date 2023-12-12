@@ -24,4 +24,6 @@ Upload a PDF:
 ![242736964-b48cd7b0-5bf8-4d4d-8511-e3c424fe83a3](https://github.com/jasonchen2023/AI-Read/assets/77142116/21216941-87ef-4139-b6d7-58758ee9403a)
 
 
+Currently bringing this application back to life with upgrades. Check back soon!
+
 If you're interested in seeing the code, please email jasonchen2023@gmail.com.
