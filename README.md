@@ -4,6 +4,8 @@ Got a long article that you don’t have the time to read? 😫 Or a complicated
 
 Introducing AIread! 🤖📖 AIread is a tool that allows readers to upload PDFs to summarize.
 
+[Updated Repo](https://github.com/jasonchen2023/AIread)
+
 ## How It Works 
 
 AIread breaks the original content up into “chunks” and feeds them to OpenAI’s Text Completion model to summarize. In a split screen view, readers can enjoy the summaries while also referring to the original content on the other side. 📝📋
